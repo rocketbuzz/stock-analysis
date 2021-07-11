@@ -1,7 +1,4 @@
-# stock-analysis
-To test the skills of macros
-
-# stock_analysis
+# Stock-Analysis
 This project looks at trends between different green stocks. 
 # Green Stock Analysis
 
