@@ -171,9 +171,9 @@ Here are the run-times using the original code.
 
 ![](resources/runtime_for2018.png)
 
-![](resources/VBA_Challenge_2017.png)
+![](resources/VBA_challenge2017.png)
 
-![](resources/VBA_Challenge_2018.png)
+![](resources/VBA_challenge2018.png)
 
 ##Summary on Refactoring
 
