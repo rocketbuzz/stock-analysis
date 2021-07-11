@@ -27,7 +27,7 @@ The tickers array was used to establish the ticker symbol of a stock. I matched 
 with the tickers array by using a variable called the tickerIndex. 
 
 #### New Code
-"""
+```
 Option Base 0
 
 Sub macro1()
@@ -155,7 +155,8 @@ Cells(3, 6).value = (endTime - startTime) & " seconds "
 
 End Sub
 
-"""
+```
+
 
 This variable allowed me to assign the tickerVolumes, tickerStartingPrices, and tickerEndingPrices to 
 each ticker symbol before interating through the data set. By doing it this way, the analysis would be 
