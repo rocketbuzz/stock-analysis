@@ -167,13 +167,13 @@ completed much faster than using the nested for loop for earlier.
 # Run-time for Each Method and yearValue
 Here are the run-times using the original code.
 
-place holder for run time fo 2017
+![](resources/runtime_for2017.png)
 
-place holder for run time for 2018 
+![](resources/runtime_for2018.png)
 
-VBA_Challenge_2017
+![](resources/VBA_Challenge_2017.png)
 
-VBA_Challenge_2018
+![](resources/VBA_Challenge_2018.png)
 
 ##Summary on Refactoring
 
